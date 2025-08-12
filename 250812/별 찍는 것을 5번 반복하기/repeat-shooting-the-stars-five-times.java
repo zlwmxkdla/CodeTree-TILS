@@ -6,7 +6,7 @@ public class Main {
             System.out.println();
         }
     }
-    public void makeStar(int n){
+    public static void makeStar(int n){
         for(int i=0;i<n;i++){
             System.out.print('*');
         }
